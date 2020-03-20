@@ -90,3 +90,8 @@ main {
 img{
     max-width: 100%;
 }
+
+.image4 {
+    width: 30px;
+    height: 30px;
+}
